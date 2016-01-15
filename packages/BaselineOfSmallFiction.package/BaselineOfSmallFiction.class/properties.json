@@ -1,0 +1,14 @@
+{
+	"category" : "BaselineOfSmallFiction",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "BaselineOfSmallFiction",
+	"pools" : [
+		 ],
+	"super" : "BaselineOf",
+	"type" : "normal" }

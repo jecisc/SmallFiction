@@ -1,0 +1,14 @@
+{
+	"category" : "SmallFiction-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"description" ],
+	"name" : "SFStage",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
