@@ -1,4 +1,4 @@
 baseline
 baseline: spec
 	<baseline>
-	spec for: #common do: [ spec package: 'SmallFiction' ]
+	spec for: #common do: [ spec package: 'SmallFiction-Core' ]
