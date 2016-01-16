@@ -10,5 +10,5 @@
 	"name" : "SFStage",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "SFObject",
 	"type" : "normal" }
