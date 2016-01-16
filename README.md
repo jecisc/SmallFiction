@@ -1,8 +1,8 @@
 # SmallFiction
 
 ```Smalltalk
-Metacello new
-  baseline: 'SmallFiction';
-  repository: 'github://jecisc/SmallFiction:master/packages';
+Metacello new 
+  baseline: #SmallFiction;
+  githubUser: 'jecisc' project: 'SmallFiction' commitish: 'master' path: 'packages';
   load
 ```
