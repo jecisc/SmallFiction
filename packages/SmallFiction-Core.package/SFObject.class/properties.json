@@ -1,0 +1,14 @@
+{
+	"category" : "SmallFiction-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "CyrilFerlicot 1/16/2016 16:56",
+	"instvars" : [
+		 ],
+	"name" : "SFObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

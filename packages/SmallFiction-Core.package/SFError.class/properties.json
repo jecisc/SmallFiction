@@ -1,0 +1,14 @@
+{
+	"category" : "SmallFiction-Core-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "SFError",
+	"pools" : [
+		 ],
+	"super" : "Error",
+	"type" : "normal" }
