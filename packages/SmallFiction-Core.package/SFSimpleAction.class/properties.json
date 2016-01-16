@@ -6,9 +6,9 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"keyword" ],
-	"name" : "SFAction",
+		 ],
+	"name" : "SFSimpleAction",
 	"pools" : [
 		 ],
-	"super" : "SFObject",
+	"super" : "SFAction",
 	"type" : "normal" }

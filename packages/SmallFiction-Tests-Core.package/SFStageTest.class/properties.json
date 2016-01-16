@@ -1,14 +1,14 @@
 {
-	"category" : "SmallFiction-Core",
+	"category" : "SmallFiction-Tests-Core",
 	"classinstvars" : [
 		 ],
 	"classvars" : [
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"keyword" ],
-	"name" : "SFAction",
+		 ],
+	"name" : "SFStageTest",
 	"pools" : [
 		 ],
-	"super" : "SFObject",
+	"super" : "TestCase",
 	"type" : "normal" }
