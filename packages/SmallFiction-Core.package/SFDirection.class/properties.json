@@ -3,11 +3,12 @@
 	"classinstvars" : [
 		 ],
 	"classvars" : [
-		 ],
+		"Directions" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"keywords" ],
-	"name" : "SFAction",
+		"direction",
+		"abbreviation" ],
+	"name" : "SFDirection",
 	"pools" : [
 		 ],
 	"super" : "SFObject",

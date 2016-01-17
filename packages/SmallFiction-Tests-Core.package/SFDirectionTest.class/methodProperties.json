@@ -1,0 +1,10 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 1/17/2016 03:06",
+		"deny:equals:" : "CyrilFerlicot 1/17/2016 03:14",
+		"testEquals" : "CyrilFerlicot 1/17/2016 03:16",
+		"testHash" : "CyrilFerlicot 1/17/2016 03:22",
+		"testMatch" : "CyrilFerlicot 1/17/2016 03:06",
+		"testMatching" : "CyrilFerlicot 1/17/2016 03:09" } }

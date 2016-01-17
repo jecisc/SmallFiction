@@ -6,8 +6,8 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
-		"keywords" ],
-	"name" : "SFAction",
+		"links" ],
+	"name" : "SFLinker",
 	"pools" : [
 		 ],
 	"super" : "SFObject",
