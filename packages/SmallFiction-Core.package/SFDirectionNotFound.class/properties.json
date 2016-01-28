@@ -1,0 +1,14 @@
+{
+	"category" : "SmallFiction-Core-Exception",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"direction" ],
+	"name" : "SFDirectionNotFound",
+	"pools" : [
+		 ],
+	"super" : "SFError",
+	"type" : "normal" }

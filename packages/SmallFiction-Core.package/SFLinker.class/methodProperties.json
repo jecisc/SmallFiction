@@ -2,4 +2,8 @@
 	"class" : {
 		 },
 	"instance" : {
-		"initialize" : "CyrilFerlicot 1/17/2016 01:50" } }
+		"direction:leadTo:" : "CyrilFerlicot 1/28/2016 23:32",
+		"initialize" : "CyrilFerlicot 1/17/2016 01:50",
+		"links" : "CyrilFerlicot 1/28/2016 23:32",
+		"links:" : "CyrilFerlicot 1/28/2016 23:32",
+		"stageForDirection:" : "CyrilFerlicot 1/28/2016 23:58" } }
