@@ -6,7 +6,7 @@ printOn: aStream
 	aStream
 		nextPut: $(;
 		nextPutAll:
-			(self description size <= sizeOfPrinting
-				ifTrue: [ self description ]
-				ifFalse: [ (self description first: sizeOfPrinting) , '...' ]);
+			(self title size <= sizeOfPrinting
+				ifTrue: [ self title ]
+				ifFalse: [ (self title first: sizeOfPrinting) , '...' ]);
 		nextPut: $)

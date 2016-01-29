@@ -1,3 +1,3 @@
-as yet unclassified
+accessing
 stageForDirection: aDirection
 	^ self linker stageForDirection: aDirection

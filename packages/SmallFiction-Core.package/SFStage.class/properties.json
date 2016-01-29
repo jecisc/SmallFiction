@@ -6,6 +6,7 @@
 		 ],
 	"commentStamp" : "",
 	"instvars" : [
+		"title",
 		"description",
 		"linker" ],
 	"name" : "SFStage",

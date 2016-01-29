@@ -1,3 +1,3 @@
 accessing
 linker
-	^ linker
+	^ linker ifNil: [ linker := SFLinker new ]
