@@ -1,0 +1,11 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"actualClass" : "CyrilFerlicot 1/30/2016 00:01",
+		"mockDirection" : "CyrilFerlicot 1/30/2016 00:05",
+		"mockStage" : "CyrilFerlicot 1/30/2016 00:05",
+		"setUp" : "CyrilFerlicot 1/29/2016 23:58",
+		"testDirections" : "CyrilFerlicot 1/30/2016 00:33",
+		"testStageForDirectionNamed" : "CyrilFerlicot 1/30/2016 00:18",
+		"todo" : "CyrilFerlicot 1/30/2016 00:19" } }

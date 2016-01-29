@@ -1,5 +1,5 @@
 instance creation
-direction: aDirection
+direction: aDirectionOrString
 	^ self new
-		direction: aDirection;
+		direction: aDirectionOrString;
 		yourself

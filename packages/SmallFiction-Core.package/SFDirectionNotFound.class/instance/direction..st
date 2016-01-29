@@ -1,3 +1,3 @@
 accessing
-direction: anObject
-	direction := anObject
+direction: aDirectionOrString
+	direction := aDirectionOrString

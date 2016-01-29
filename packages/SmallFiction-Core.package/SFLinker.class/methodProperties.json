@@ -2,8 +2,12 @@
 	"class" : {
 		 },
 	"instance" : {
-		"direction:leadTo:" : "CyrilFerlicot 1/28/2016 23:32",
+		"=" : "CyrilFerlicot 1/30/2016 00:16",
+		"direction:leadTo:" : "CyrilFerlicot 1/30/2016 00:34",
+		"directionNamed:" : "CyrilFerlicot 1/29/2016 23:53",
+		"directions" : "CyrilFerlicot 1/30/2016 00:08",
+		"hash" : "CyrilFerlicot 1/30/2016 00:17",
 		"initialize" : "CyrilFerlicot 1/17/2016 01:50",
 		"links" : "CyrilFerlicot 1/28/2016 23:32",
 		"links:" : "CyrilFerlicot 1/28/2016 23:32",
-		"stageForDirection:" : "CyrilFerlicot 1/28/2016 23:58" } }
+		"stageForDirectionNamed:" : "CyrilFerlicot 1/29/2016 23:54" } }

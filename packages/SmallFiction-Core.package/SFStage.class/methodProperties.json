@@ -3,12 +3,15 @@
 		"entitiled:" : "CyrilFerlicot 1/29/2016 23:31",
 		"entitiled:description:" : "CyrilFerlicot 1/29/2016 23:33" },
 	"instance" : {
+		"=" : "CyrilFerlicot 1/30/2016 00:11",
 		"description" : "CyrilFerlicot 1/29/2016 23:36",
 		"description:" : "CyrilFerlicot 1/16/2016 16:46",
 		"direction:leadTo:" : "CyrilFerlicot 1/29/2016 00:02",
-		"linker" : "CyrilFerlicot 1/29/2016 23:37",
+		"hash" : "CyrilFerlicot 1/30/2016 00:13",
+		"initialize" : "CyrilFerlicot 1/30/2016 00:27",
+		"linker" : "CyrilFerlicot 1/30/2016 00:27",
 		"linker:" : "CyrilFerlicot 1/17/2016 01:48",
 		"printOn:" : "CyrilFerlicot 1/29/2016 23:33",
-		"stageForDirection:" : "CyrilFerlicot 1/29/2016 00:03",
+		"stageForDirectionNamed:" : "CyrilFerlicot 1/29/2016 23:50",
 		"title" : "CyrilFerlicot 1/29/2016 23:37",
 		"title:" : "CyrilFerlicot 1/29/2016 23:31" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "SmallFiction-Tests-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"linker" ],
+	"name" : "SFLinkerTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
